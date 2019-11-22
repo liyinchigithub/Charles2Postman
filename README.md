@@ -3,7 +3,9 @@
 ```
 测试小伙伴，经常使用Charles抓取数据包，但要将数据包内容复制到postman这是是一件费时费力的事情。
 
-Charles2Postman可以帮助你，批量将Charles导出的抓包请求响应数据文件，快速转成支持导入postman格式，让你在没有restful API设计文档情况下，快速构建postman客户端请求脚本，无需再一个个参数复制粘贴，节省时间。
+Charles2Postman可以帮助你，批量将Charles导出的抓包请求响应数据文件，快速转成支持导入postman格式，
+
+让你在没有restful API设计文档情况下，快速构建postman客户端请求脚本，无需再一个个参数复制粘贴，节省时间。
 
 ```
 
