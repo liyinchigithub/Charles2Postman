@@ -4,7 +4,7 @@
   "description": "charles request converted to postman",
   "main": "index.js",
   "scripts": {
-    "start": "node index"
+    "test": "start"
   },
   "keywords": [
     "charles",
