@@ -11,18 +11,30 @@ Charles2Postman可以帮助你，批量将Charles导出的抓包请求响应数�
 
 ```
 
-
-版本说明
+版本
 ===
-```
-charles2postman Version1.0  支持基于http、https协议请求，类型支持urlencoded、json、form-data
 
+```
 charles 版本 4.2.6
 
 postman 版本 7.12.0
 
 node 版本 大于v8.11.4
 ```
+
+charles2postman 版本更新说明
+===
+
+
+ Version1.1 
+```
+1.修复mac系统上隐藏文件".DS_Store"造成解析错误的bug
+
+2.支持基于http、https协议请求，请求数据类型支持urlencoded、json、form-data、html
+
+```
+
+感谢[guohao0328](https://github.com/guohao0328)提出的第一个bug
 
 环境
 ===
