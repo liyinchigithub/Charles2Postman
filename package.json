@@ -15,7 +15,9 @@
   ],
   "author": "liyinchi",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "async": "^3.2.0"
+  },
   "devDependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "^7.1.5",
