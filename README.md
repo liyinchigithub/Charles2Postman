@@ -22,17 +22,6 @@ postman 版本 7.12.0
 node 版本 大于v8.11.4
 ```
 
-charles2postman 版本更新说明
-===
-
-
- Version1.1 
-```
-1.修复mac系统上隐藏文件".DS_Store"造成解析错误的bug
-
-2.支持基于http、https协议请求，请求数据类型支持urlencoded、json、form-data、html
-
-```
 
 感谢[guohao0328](https://github.com/guohao0328)提出的第一个bug
 
@@ -123,3 +112,19 @@ sudo sh run.sh
 ![img](./static/image/最终效果.jpg)
 
 >对你有所帮助的话，记得start下项目，谢谢你的支持
+
+
+
+## 更新记录
+
+> Version1.1
+```bash
+1.修复mac系统上隐藏文件".DS_Store"造成解析错误的bug
+2.支持基于http、https协议请求，请求数据类型支持urlencoded、json、form-data、html
+```
+
+> Version1.2
+```bash
+1.修复导入postman后，请求地址Path重复问题
+2.修复https协议显示问题
+```
