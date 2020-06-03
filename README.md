@@ -10,6 +10,7 @@ Charles2Postman可以帮助你，批量将Charles导出的抓包请求响应数�
 让你在没有restful API设计文档情况下，快速构建postman客户端请求脚本，无需再一个个参数复制粘贴，节省时间。
 
 ```
+支持基于http、https协议请求，请求数据类型支持urlencoded、json、form-data、html
 
 版本
 ===
@@ -112,19 +113,3 @@ sudo sh run.sh
 ![img](./static/image/最终效果.jpg)
 
 >对你有所帮助的话，记得start下项目，谢谢你的支持
-
-
-
-## 更新记录
-
-> Version1.1
-```bash
-1.修复mac系统上隐藏文件".DS_Store"造成解析错误的bug
-2.支持基于http、https协议请求，请求数据类型支持urlencoded、json、form-data、html
-```
-
-> Version1.2
-```bash
-1.修复导入postman后，请求地址Path重复问题
-2.修复https协议显示问题
-```
