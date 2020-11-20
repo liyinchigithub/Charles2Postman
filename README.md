@@ -1,5 +1,7 @@
 # Charles2Postman
 
+recommend: [China-Gitee](https://gitee.com/liyinchi/Charles2Postman)，[Other-Github](https://github.com/liyinchigithub/Charles2Postman)
+
 功能说明
 ===
 ```
