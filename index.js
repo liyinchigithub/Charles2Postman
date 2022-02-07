@@ -1,1 +1,317 @@
-var _0xodY='jsjiami.com.v6',_0xee92=[_0xodY,'worCk2TCo2U=','Rxlvw7/CiA==','c8K6wrDDqMOZ','IMOYK0zDlA==','wpfDoBJAwpE=','bB5uw53CiA==','RcOFWcK4eA==','wrZvw7bCtMOe','W8OjDSLCsjVTasOd','AAkLLcO7','ZsOLQcKScALDlwfDoA==','UwjCvlHCig==','w59kGRwH','woTDm0ZO','w718MAE=','Tx/Ct2zCocKi','w7cEw4vDk03CtQ==','wpdjwofDsg==','woTDssK9R2ImwoTCqX5uw7VhNk5Uw7tlw6xEYg==','wpBRw7xF','w4pqBh3DjjhtEQ==','wpzDosKTwoHDgylSw6jCsyJR','WTl0w73Ckw==','OsOvA2PDtQ==','w5Qvw43DtWo=','KcO7wpzDp0U=','w5R3KiXDuw==','wphUw5bCig==','wpkswrHCq8OvwoDCsBXDrGLDhcOuBsKSPcOew57CuxE4','WMKpwp7DiMOWKMKPC0nDiVg=','woXDuMK7S20hwok=','woLDlhF4wpPDj8KISy0qAcKrG8KzQMKEwovDlMK0wpQ=','MSFFdsKUw5nChiDCs3AUwos=','wpcxIQDDsSQ=','wo1twprDtA==','QMKjwpbDgg==','XTFfw7k=','QgFiwrjCl8Of','Q8KiwpnDgw==','BDvDj8KL','JMKnf1XCvA==','XsKpwofDmA==','FsOQHQvCow==','fkfDuA==','w7MOw5bDgA==','RiwzwpJX','w5EGwqpGwpo=','wrVzwqDCqcKKFsO9wpsLacObw48/w6hkYWEDP8KNwoPCpMKiw7pFF8Kcw7XCsQ==','WsKBw6jDmB0vaw==','IMKnZA==','wpDDpCoWwpLCocO5LERTw5XDs8KAQMKnJiVl','f8KuworDrcOc','w7Z9MhfvvY8=','VMODCwTCvA==','Tx51w6DClMOPasOCQsKzKnNSPilJecK+OMKSc8OVw4LDtsOxwrITHMOZH8KTe8Oi','w4Miw6DDpUA=','woTDmDFlwrk=','Ej/DpMKqVg==','wrwkwrLCtMOp','woHDtMKkwpw=','w6A35pSU6Kux','wpLCrsOOIMOmwpXDiWFeGMKmdhvChcOcH8OoKWhtw50TwqrChkM+JcKPK8KBBh/DkcOfw4TDtMOPwprDssO+ZMOPwoM=','SnrCgsOOYGTCkhTCqgHDvwMkMjdgLcOGUVrDpUPCjcKPeMK0wr9hIsOLT8OOZh7Cm1M=','BcO9w7HDpcO/BcK8wpDDky3DtHHCkjrDlw==','wrR0w4bCnmc=','6L6S5oyr5a2J5qy3','a8KLw7XCocO+wq8dw6tAwr3CiMKvw7PDvSclwqUFw44YwqLCqMO8w7bDi1HDhmEsZMOfwoxswqrCmcOG','JcONF0M=','WmMWE8OswoVucldbWMKpwqwOH39gFRvDrcKOSG5uYRXCl8O1w5BuYMKFw5XDvMOwaQ==','wpLDmMKzwqbDuA==','woPCsMKqGsOB','worDnykowp8=','worCgm3Cg1LDtMOMacOSwo/Cog==','PsKjWMO4IA==','6L+e5Zmm5pWB5Li25pa457iK5Yi+6KK0Vw==','EiMLI8O5wpZz','W8KQw7jDmSslcRQ=','AcOhTcOocwcBH8KBdMOK','wrHDpMK+W0k=','FsO7wrfDv0g=','VQHCv2DCusKIw5Q=','wotLw6bCosO/w5/Dn2A=','XcOvBSY=','c8OQQcK+fwbDlg==','w5YJwoUN','wrt9w4HChQ==','LRrDo8OwWA==','W8KWw67DjDw=','RcOYAjPDuw==','wpbDgwlYwok=','RGDDsgQ=','WMKpwo7DmcOXMsKJ','c8ODwoDDscKQw4o=','wojDlcKBTW0=','wogvwrRFw6xATw==','wojCkn/Cjw==','TsOhwoDChMKx','wop3w4dBag==','LsOuwojDug==','TgrCqnDCp8K0w4Y=','w7YIw4jDkW3CpBkG','wpnDi0FOw4dw','GS3DjMKLew==','wpDCtMKGPMO7','wo97wojDtMO3','V8OPWMKqaw==','woJaw4vCjA==','wp5Uw697Zg==','wpDCpsKQOMOiwoXDmA==','woR5wr7CscKOG8Os','woVswqLCtMKb','wp5ew5HCg2PDuQ==','wp9ywqrCuMKXN8Ov','w6gUw4fDh03CrwANwrQ=','wpLCtsKTPA==','wrVdwrzCtsKH','wpp5wqDCusKbEA==','TxrCuXbCtsK1w5vCoFA=','AMK5ZsOSKQ==','FMOHEmDDvA==','w6fDslzCncKrw74=','ZMObW8KtRg==','NAjDlcOqT0fCm8Knwo3DicO7','KMOuwpHDqlXCvMKHG8K4TsOO','wp7CiH7ColfDvsOW','wrrCl2fCtkM=','wqHCoEnCoXI=','CsOKHUk=','wo/DgT8Jwow=','ZCzCmHPCrw==','A8OIw7DDusKn','w4/DuUrCvsK0','wo3Di8KZwoDDmw==','AjRFfcKy','wp9ywqjCsg==','wrFUw5HCkHLDv8KhwqY0w7QUAMOhCMK0w7rDlTzDlCUXw4XCjGjDksOnYCUoLzg=','dsKyw4DCsGh/EA==','EipJdMKW','WQ1sw4rCmg==','w6NcOSQx','w4FwIy87','RcO/Ajk=','wpjDlcK1wrhrw6fDhA==','TjZ4w7Za','wr9tw5DCmsOZ','wpDDp8KlZ3g=','woJIw7pSYQ==','NsOuwp7DqUXCvQ==','w6gGwpRB','TxvCqWzCrMKgw5vCqE4=','IiFJRA==','wojDoyoHwpXCssO6LQ5R','wpcnwqPCjQ==','UcKgw6jDqQs=','E8KdcMOGAw==','wo7DpTQLwpXCtsO8LxI=','wqR2w6nCr2A=','LQ7DosOr','wrHDv8KvwqzDmg==','wpXDsDUtwozCv8OFOwRFw5/Ds8KZFA==','wqwZwrVXw7k=','wo/CqWPCrVI=','SibCuxfDtQ==','wqxWw6vCnsO+','Xz03woZj','PgLDicOoeg==','Y8OWwqDCrw==','wrFpwr7DmMOk','wqDCpE/CkVs=','wp3Dk8Ktwotp','d8ODwo/DssKBw5A=','ecOIwqrCqcK8','O8KodU8=','wqpWw7jCtsOA','RC0kwolAWEZcw6E=','w6TDsFfCrsKX','GMO2wqQUw7w=','wq0VNHTDpw==','Gi/DkcKG','X8K+wpPDicOcIsKSPFXDgw==','w6gRw4nDnU0=','w4JcAC0E','aStR','YsKiwozDmcOK','BMKIRWPCiA==','wprDvAINwrU=','acOFKDrCoQ==','wpPCmsKBLsOI','w7sBwqg2Ng==','DcKlPsK5NVdXUsODNcKBwpzDgSxGwofDqsOJw5QGRMORB2HCtCbCo1XDlEHDp8OWMD7DsQk=','jUslyTjiZBJaLMmil.ckorm.v6FA=='];(function(_0x36d4a9,_0x289bb9,_0x7d5564){var _0x4a2280=function(_0x29ff7a,_0x561b12,_0x46e0e0,_0x9e84b7,_0x49d07d){_0x561b12=_0x561b12>>0x8,_0x49d07d='po';var _0x2ca1bb='shift',_0x379a77='push';if(_0x561b12<_0x29ff7a){while(--_0x29ff7a){_0x9e84b7=_0x36d4a9[_0x2ca1bb]();if(_0x561b12===_0x29ff7a){_0x561b12=_0x9e84b7;_0x46e0e0=_0x36d4a9[_0x49d07d+'p']();}else if(_0x561b12&&_0x46e0e0['replace'](/[UlyTZBJLMlkrFA=]/g,'')===_0x561b12){_0x36d4a9[_0x379a77](_0x9e84b7);}}_0x36d4a9[_0x379a77](_0x36d4a9[_0x2ca1bb]());}return 0x5631e;};return _0x4a2280(++_0x289bb9,_0x7d5564)>>_0x289bb9^_0x7d5564;}(_0xee92,0x19e,0x19e00));var _0x257a=function(_0x6b4bda,_0x1398f9){_0x6b4bda=~~'0x'['concat'](_0x6b4bda);var _0x3c9cd0=_0xee92[_0x6b4bda];if(_0x257a['wjVCXq']===undefined){(function(){var _0x280d11=typeof window!=='undefined'?window:typeof process==='object'&&typeof require==='function'&&typeof global==='object'?global:this;var _0x504a91='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';_0x280d11['atob']||(_0x280d11['atob']=function(_0x2d6c5e){var _0x2dec52=String(_0x2d6c5e)['replace'](/=+$/,'');for(var _0x253dbe=0x0,_0x1711b0,_0x3bfa97,_0x81c047=0x0,_0x1df59e='';_0x3bfa97=_0x2dec52['charAt'](_0x81c047++);~_0x3bfa97&&(_0x1711b0=_0x253dbe%0x4?_0x1711b0*0x40+_0x3bfa97:_0x3bfa97,_0x253dbe++%0x4)?_0x1df59e+=String['fromCharCode'](0xff&_0x1711b0>>(-0x2*_0x253dbe&0x6)):0x0){_0x3bfa97=_0x504a91['indexOf'](_0x3bfa97);}return _0x1df59e;});}());var _0x91de26=function(_0x18db61,_0x1398f9){var _0x38f8e5=[],_0x32a64b=0x0,_0x52a9bd,_0x1f194c='',_0x2a942e='';_0x18db61=atob(_0x18db61);for(var _0x13343c=0x0,_0x41f6de=_0x18db61['length'];_0x13343c<_0x41f6de;_0x13343c++){_0x2a942e+='%'+('00'+_0x18db61['charCodeAt'](_0x13343c)['toString'](0x10))['slice'](-0x2);}_0x18db61=decodeURIComponent(_0x2a942e);for(var _0x1c5780=0x0;_0x1c5780<0x100;_0x1c5780++){_0x38f8e5[_0x1c5780]=_0x1c5780;}for(_0x1c5780=0x0;_0x1c5780<0x100;_0x1c5780++){_0x32a64b=(_0x32a64b+_0x38f8e5[_0x1c5780]+_0x1398f9['charCodeAt'](_0x1c5780%_0x1398f9['length']))%0x100;_0x52a9bd=_0x38f8e5[_0x1c5780];_0x38f8e5[_0x1c5780]=_0x38f8e5[_0x32a64b];_0x38f8e5[_0x32a64b]=_0x52a9bd;}_0x1c5780=0x0;_0x32a64b=0x0;for(var _0x2c55b2=0x0;_0x2c55b2<_0x18db61['length'];_0x2c55b2++){_0x1c5780=(_0x1c5780+0x1)%0x100;_0x32a64b=(_0x32a64b+_0x38f8e5[_0x1c5780])%0x100;_0x52a9bd=_0x38f8e5[_0x1c5780];_0x38f8e5[_0x1c5780]=_0x38f8e5[_0x32a64b];_0x38f8e5[_0x32a64b]=_0x52a9bd;_0x1f194c+=String['fromCharCode'](_0x18db61['charCodeAt'](_0x2c55b2)^_0x38f8e5[(_0x38f8e5[_0x1c5780]+_0x38f8e5[_0x32a64b])%0x100]);}return _0x1f194c;};_0x257a['SlQHKN']=_0x91de26;_0x257a['RqvOld']={};_0x257a['wjVCXq']=!![];}var _0x2a0261=_0x257a['RqvOld'][_0x6b4bda];if(_0x2a0261===undefined){if(_0x257a['UOPqgy']===undefined){_0x257a['UOPqgy']=!![];}_0x3c9cd0=_0x257a['SlQHKN'](_0x3c9cd0,_0x1398f9);_0x257a['RqvOld'][_0x6b4bda]=_0x3c9cd0;}else{_0x3c9cd0=_0x2a0261;}return _0x3c9cd0;};var fs=require('fs');var join=require(_0x257a('0','#mdB'))[_0x257a('1','EI^M')];var path=require(_0x257a('2','7^sd'));var log4js=require(_0x257a('3','Q0vi'));var logger=log4js['getLogger']();logger['level']=_0x257a('4','EI^M');var charles2postman={'getFilesName':_0x233b0f=>{var _0xd71e13={'gIdNI':'gThKV','asJNB':function(_0x2ac41f,_0x16addd){return _0x2ac41f(_0x16addd);},'wNoJd':function(_0x53634b,_0x2b33d2){return _0x53634b===_0x2b33d2;},'Hpiyh':function(_0x25b3d5,_0x49132a){return _0x25b3d5+_0x49132a;},'DYFDy':_0x257a('5','$)hD'),'pIRjj':_0x257a('6','pvhR'),'DnxDk':_0x257a('7','EI^M'),'rZZYb':function(_0x2897d4,_0xecc826){return _0x2897d4<_0xecc826;},'rwfhx':function(_0x1d4df0,_0x2eda5a){return _0x1d4df0+_0x2eda5a;},'srwaD':_0x257a('8','EVyh'),'qYazK':'path','kBHCa':'headers','swnek':_0x257a('9',')S@S'),'BpkQu':_0x257a('a','Deu#'),'djzPf':_0x257a('b','HsG6'),'VdKdN':function(_0x1a2065,_0xd7b642){return _0x1a2065<_0xd7b642;},'CArkh':function(_0xf073,_0x4df86d){return _0xf073<_0x4df86d;},'vjWSa':function(_0x3857d1,_0x55e682){return _0x3857d1+_0x55e682;},'wciFg':function(_0x9c80b2,_0x531faf){return _0x9c80b2<_0x531faf;},'rIRqY':_0x257a('c','uwoX'),'YGEFD':_0x257a('d','BAx)'),'rPykw':_0x257a('e','j3RR'),'XCCvm':'body','iKulg':_0x257a('f','pvhR'),'xZNhj':'json','TptMO':_0x257a('10','Nn0S'),'XgTek':_0x257a('11','EI^M'),'yDqDs':function(_0x37d318,_0x298e6e){return _0x37d318+_0x298e6e;},'eNAGK':_0x257a('12','q&D#'),'kKxwQ':function(_0x21a3b4,_0x5c1c85){return _0x21a3b4!==_0x5c1c85;},'VMVKw':_0x257a('13','Y)XO'),'BYsWt':'formdata','LePDk':_0x257a('14','Q0vi'),'cNRou':function(_0x8aca04,_0x285779){return _0x8aca04!==_0x285779;},'hdafM':_0x257a('15','Deu#'),'cyXkG':'sCsZN','ETLlv':function(_0x3f1a1d,_0x109153){return _0x3f1a1d+_0x109153;},'ogeTH':function(_0x285433,_0x12c986){return _0x285433!==_0x12c986;},'DXdFL':_0x257a('16',')TXg'),'VNVCQ':function(_0x474d07,_0x5a6a1b){return _0x474d07===_0x5a6a1b;},'mJGDw':_0x257a('17','$)hD'),'gmDoN':_0x257a('18','L8*w'),'OgIBG':_0x257a('19','06s['),'GNAQl':_0x257a('1a','B!7z'),'rthDS':_0x257a('1b','gqB6'),'iwjsu':_0x257a('1c','$)hD'),'YvODk':_0x257a('1d','gKd7'),'hvJUX':'method','rSwql':'scheme','KvOrR':_0x257a('1e','r[[$'),'kEVDn':_0x257a('1f','L8*w'),'PzjCf':_0x257a('20','B#C9'),'ywOEU':_0x257a('21','EVyh'),'TSNIx':'https://schema.getpostman.com/json/collection/v2.1.0/collection.json','tErKc':_0x257a('22','(Q8h')};let _0x541534=[];let _0x570204=_0x7a8448=>{var _0x537aca={'fholq':_0xd71e13[_0x257a('23','06s[')],'THvvQ':function(_0x5205fc,_0x2707bf){return _0xd71e13[_0x257a('24','gqB6')](_0x5205fc,_0x2707bf);},'RswUE':function(_0x27b627,_0x3e0c42){return _0xd71e13[_0x257a('25','Nn0S')](_0x27b627,_0x3e0c42);},'LpGqy':function(_0x2d32aa,_0x134b71){return _0x2d32aa!=_0x134b71;}};let _0x174c34=fs[_0x257a('26','c0z%')](_0x7a8448);logger['info'](_0xd71e13[_0x257a('27','#5E6')](_0x257a('28','B#C9'),_0x174c34));_0x174c34[_0x257a('29','(Q8h')](function(_0x33f3a6,_0x10ec06){if('dUaTQ'!==_0x537aca['fholq']){let _0x19f80d=join(_0x7a8448,_0x33f3a6);let _0x2379ee=fs[_0x257a('2a','j3RR')](_0x19f80d);if(_0x2379ee[_0x257a('2b','1e$P')]()===!![]){_0x537aca['THvvQ'](_0x570204,_0x19f80d);};if(_0x537aca[_0x257a('2c','gdao')](_0x2379ee['isFile'](),!![])){if(_0x537aca[_0x257a('2d','P8w#')](_0x33f3a6[_0x257a('2e','1r*h')](_0x257a('2f','B!7z')),-0x1)){}else{_0x541534['push'](_0x19f80d);}};}else{RAW=raw;}});};_0xd71e13['asJNB'](_0x570204,_0x233b0f);logger[_0x257a('30','jFR&')](_0x541534);var _0x292c35=[];_0x541534[_0x257a('31','%&0y')](_0x452ef6=>{var _0x1629f0={'cfSgn':_0x257a('32','5s)k'),'puikR':_0x257a('33','B!7z'),'xvoya':function(_0x329dbf,_0x321131){return _0xd71e13['rZZYb'](_0x329dbf,_0x321131);},'bGlGf':function(_0x5267fc,_0x22a8ff){return _0xd71e13['rwfhx'](_0x5267fc,_0x22a8ff);},'Hnsux':function(_0x15afaa,_0x4b7e1d){return _0x15afaa(_0x4b7e1d);}};var _0x1eb0b1=JSON[_0x257a('34','3cxL')](fs['readFileSync'](_0x452ef6,_0xd71e13[_0x257a('35','j3RR')]));var _0x397fd0=_0x1eb0b1[0x0][_0xd71e13[_0x257a('36','jFR&')]][_0x257a('37',')TXg')]('/');logger[_0x257a('38','&$^g')](_0x397fd0['filter'](_0xc3d305=>_0xc3d305));var _0x11203a=[];var _0x1aa34c=_0x1eb0b1[0x0][_0x257a('39','EI^M')][_0x257a('3a','f68s')][_0xd71e13[_0x257a('3b','gdao')]];_0x1aa34c[_0x257a('3c','kK7J')](_0x4365ed=>{_0x11203a[_0x257a('3d','c0z%')]({'key':_0x4365ed['name'],'name':_0x4365ed[_0xd71e13[_0x257a('3e','B#C9')]],'value':_0x4365ed[_0xd71e13[_0x257a('3f','O(Qm')]],'type':_0x257a('40','P8w#')});});var _0x830bbf={};var _0xe4536=_0x1eb0b1[0x0][_0x257a('41','1r*h')][_0x257a('42','Deu#')];var _0x58ebdb;var _0x1add7e;if(_0x1eb0b1[0x0][_0x257a('43','CN7*')]===_0xd71e13[_0x257a('44','$)hD')]){_0x830bbf={};_0x58ebdb=_0xd71e13[_0x257a('45','gqB6')](_0xd71e13[_0x257a('46','#mdB')](_0x1eb0b1[0x0][_0xd71e13[_0x257a('47','%&0y')]],_0x1eb0b1[0x0][_0x257a('48','r[[$')])+'?',_0x1eb0b1[0x0][_0xd71e13['djzPf']]);if(_0x1eb0b1[0x0][_0xd71e13['djzPf']]!=null){var _0x3299f9=[];var _0x1a4654=[];var _0x3bfeb0=[];var _0x50827f=_0x1eb0b1[0x0][_0xd71e13[_0x257a('49','O(Qm')]][_0x257a('4a','gqB6')](/=/g,':')[_0x257a('4b','BAx)')](/&/g,',')[_0x257a('4c','BAx)')](',');var _0x54a2f2=_0x50827f;for(let _0x2c4e70=0x0;_0xd71e13['VdKdN'](_0x2c4e70,_0x54a2f2[_0x257a('4d','r[[$')]);_0x2c4e70++){const _0x1f4530=_0x54a2f2[_0x2c4e70];var _0x2c8791=_0x1f4530[_0x257a('4e','BAx)')](':');var _0x10c679=_0x1f4530[_0x257a('4f','Deu#')](0x0,_0x2c8791);_0x1a4654[_0x257a('50','gqB6')](_0x10c679);}for(let _0x486ac8=0x0;_0xd71e13[_0x257a('51','BAx)')](_0x486ac8,_0x54a2f2[_0x257a('52','BAx)')]);_0x486ac8++){const _0x1f4530=_0x54a2f2[_0x486ac8];var _0x2c8791=_0x1f4530[_0x257a('2e','1r*h')](':');var _0x10c679=_0x1f4530[_0x257a('53','1r*h')](_0xd71e13[_0x257a('54','#5E6')](_0x2c8791,0x1),_0x1f4530['size']);_0x3bfeb0['push'](_0x10c679);}for(let _0x23e404=0x0;_0xd71e13[_0x257a('55','EVyh')](_0x23e404,_0x54a2f2[_0x257a('56','!TIV')]);_0x23e404++){const _0x4cb9b9=_0x1a4654[_0x23e404];const _0x54abff=_0x3bfeb0[_0x23e404];_0x3299f9['push']({'key':_0x4cb9b9,'value':_0x54abff});}}}else{if(_0xd71e13['wNoJd'](_0x257a('57','%&0y'),_0xd71e13['rIRqY'])){obj[curDir]=curDir;if(fs['statSync'](curPath)[_0x257a('58','3cxL')]()){obj[curDir]={};let _0x16e7a3=fs[_0x257a('59','P8w#')](curPath);_0x16e7a3[_0x257a('5a','c0z%')](_0x10717c=>charles2postman['getIndexOfPathByDeep'](obj[curDir],curPath,_0x10717c,deep-0x1));}}else{_0x58ebdb=_0xd71e13['vjWSa'](_0x1eb0b1[0x0][_0xd71e13[_0x257a('5b','c0z%')]],_0x1eb0b1[0x0][_0xd71e13['qYazK']]);if(_0xe4536==='application/json'){logger['info'](_0xd71e13[_0x257a('5c','c0z%')]);logger[_0x257a('5d','EVyh')](_0x1eb0b1[0x0][_0xd71e13[_0x257a('5e','Nn0S')]][_0xd71e13[_0x257a('5f','1r*h')]][_0xd71e13['DnxDk']]);_0x830bbf={'mode':_0xd71e13['iKulg'],'raw':_0x1eb0b1[0x0][_0xd71e13[_0x257a('60','gKd7')]][_0xd71e13[_0x257a('5f','1r*h')]][_0xd71e13[_0x257a('61','!TIV')]],'options':{'raw':{'language':_0xd71e13[_0x257a('62','06s[')]}}};}else if(_0xe4536===_0xd71e13[_0x257a('63','y7ml')]){logger[_0x257a('64','BAx)')](_0x257a('65','r[[$'));var _0x14fe6f=_0x1eb0b1[0x0][_0x257a('66','k7C0')][_0xd71e13['XCCvm']][_0xd71e13[_0x257a('67','y7ml')]];var _0x2d7ea8=_0x14fe6f['split']('&');var _0x10c679={};for(var _0x47cd4d=0x0;_0xd71e13[_0x257a('68','Q0vi')](_0x47cd4d,_0x2d7ea8[_0x257a('56','!TIV')]);_0x47cd4d++){if(_0xd71e13[_0x257a('69','q&D#')](_0xd71e13['XgTek'],_0x257a('6a','q&D#'))){var _0x263924=_0x2d7ea8[_0x47cd4d][_0x257a('4c','BAx)')]('=');_0x10c679[_0x263924[0x0]]=_0x263924[0x1];}else{logger[_0x257a('6b','Y)XO')]('application/x-www-form-urlencoded');var _0x20d3e4=_0x1eb0b1[0x0][_0x257a('6c','DrPG')][_0x1629f0[_0x257a('6d','7^sd')]][_0x1629f0[_0x257a('6e','B!7z')]];var _0x2a8b77=_0x20d3e4[_0x257a('6f','gdao')]('&');var _0x33cda1={};for(var _0x29c1fd=0x0;_0x1629f0[_0x257a('70','O(Qm')](_0x29c1fd,_0x2a8b77[_0x257a('71','P8w#')]);_0x29c1fd++){var _0x346982=_0x2a8b77[_0x29c1fd]['split']('=');_0x33cda1[_0x346982[0x0]]=_0x346982[0x1];}logger[_0x257a('72','uwoX')](_0x1629f0['bGlGf']('body：',JSON[_0x257a('73','1r*h')](_0x33cda1)));var _0x4eba80=[];var _0x159fb9=_0x33cda1;for(const _0xffe70f in _0x159fb9){if(_0x159fb9['hasOwnProperty'](_0xffe70f)){const _0x4112c1=_0x159fb9[_0xffe70f];_0x4eba80['push']({'type':_0x257a('74','y7ml'),'key':_0xffe70f,'value':_0x4112c1});}}_0x830bbf={'mode':_0x257a('75','Nn0S'),'urlencoded':_0x4eba80};}}logger[_0x257a('76','L8*w')](_0xd71e13[_0x257a('77','j3RR')](_0xd71e13[_0x257a('78','#5E6')],JSON[_0x257a('79','Nn0S')](_0x10c679)));var _0x501849=[];var _0x34f587=_0x10c679;for(const _0x11ed12 in _0x34f587){if(_0xd71e13['kKxwQ'](_0xd71e13[_0x257a('7a','r[[$')],_0xd71e13['VMVKw'])){const _0x25b7aa=_0x34f587[_0x11ed12];_0x2e16c2[_0x257a('7b','3cxL')]({'type':_0xd71e13[_0x257a('7c','06s[')],'key':_0x11ed12,'value':_0x25b7aa});}else{if(_0x34f587[_0x257a('7d','Nn0S')](_0x11ed12)){const _0x1f4530=_0x34f587[_0x11ed12];_0x501849['push']({'type':_0xd71e13['DnxDk'],'key':_0x11ed12,'value':_0x1f4530});}}}_0x830bbf={'mode':_0xd71e13[_0x257a('7e','kK7J')],'formdata':_0x501849};}else if(_0xd71e13[_0x257a('7f','c0z%')](_0xe4536,_0xd71e13[_0x257a('80','dOJM')])){if(_0xd71e13[_0x257a('81','B!7z')](_0xd71e13[_0x257a('82','HsG6')],_0xd71e13[_0x257a('83','3cxL')])){logger[_0x257a('84','B#C9')](_0xd71e13[_0x257a('85','#mdB')]);var _0x14fe6f=_0x1eb0b1[0x0]['request'][_0xd71e13[_0x257a('86','c0z%')]][_0xd71e13['DnxDk']];var _0x2d7ea8=_0x14fe6f['split']('&');var _0x10c679={};for(var _0x47cd4d=0x0;_0xd71e13[_0x257a('87','DrPG')](_0x47cd4d,_0x2d7ea8[_0x257a('88','f68s')]);_0x47cd4d++){var _0x263924=_0x2d7ea8[_0x47cd4d][_0x257a('89','B#C9')]('=');_0x10c679[_0x263924[0x0]]=_0x263924[0x1];}logger[_0x257a('8a','pvhR')](_0xd71e13['ETLlv'](_0xd71e13[_0x257a('8b','B!7z')],JSON[_0x257a('8c','HsG6')](_0x10c679)));var _0x2e16c2=[];var _0x34f587=_0x10c679;for(const _0x33a6d1 in _0x34f587){if(_0xd71e13[_0x257a('8d','!TIV')](_0xd71e13[_0x257a('8e','$^#l')],_0x257a('8f','y*$P'))){if(_0x34f587['hasOwnProperty'](_0x33a6d1)){const _0x1f4530=_0x34f587[_0x33a6d1];_0x2e16c2[_0x257a('3d','c0z%')]({'type':_0x257a('74','y7ml'),'key':_0x33a6d1,'value':_0x1f4530});}}else{_0x541534[_0x257a('90','$)hD')](fPath);}}_0x830bbf={'mode':_0x257a('91','EI^M'),'urlencoded':_0x2e16c2};}else{var _0x411e03=_0x2d7ea8[_0x47cd4d][_0x257a('92','Deu#')]('=');_0x10c679[_0x411e03[0x0]]=_0x411e03[0x1];}}}}if(_0xd71e13[_0x257a('93','q&D#')](_0x1eb0b1[0x0][_0x257a('43','CN7*')],_0x257a('94','Q0vi'))){if(_0xd71e13['mJGDw']==='xeFDF'){_0x1add7e=_0x58ebdb;}else{_0x1629f0[_0x257a('95','EI^M')](_0x570204,fPath);}}else{if(_0xd71e13[_0x257a('96','pvhR')]('BmwVh',_0xd71e13[_0x257a('97','Nn0S')])){_0x1add7e=_0xd71e13[_0x257a('98','Y)XO')](_0x1eb0b1[0x0][_0xd71e13['BpkQu']],_0x1eb0b1[0x0][_0xd71e13[_0x257a('99','gqB6')]]);}else{var _0x1cae8d=_0x2d7ea8[_0x47cd4d]['split']('=');_0x10c679[_0x1cae8d[0x0]]=_0x1cae8d[0x1];}}_0x292c35['push']({'name':_0x1eb0b1[0x0]['path'],'event':[{'listen':_0xd71e13[_0x257a('9a','5s)k')],'script':{'id':_0x257a('9b','1e$P'),'exec':[_0xd71e13['GNAQl'],_0xd71e13[_0x257a('9c','c0z%')],_0xd71e13[_0x257a('9d','Q0vi')],'});'],'type':_0xd71e13[_0x257a('9e','EI^M')]}}],'protocolProfileBehavior':{'disableBodyPruning':!![]},'request':{'method':_0x1eb0b1[0x0][_0xd71e13[_0x257a('9f','[yDh')]],'header':_0x11203a,'body':_0x830bbf,'url':{'raw':_0x1add7e,'host':_0x1eb0b1[0x0][_0xd71e13[_0x257a('a0',')TXg')]]+'://'+_0x1eb0b1[0x0][_0xd71e13[_0x257a('a1','Q0vi')]],'path':_0x397fd0,'query':_0x3299f9}},'response':[]});});var _0x50f97b={'info':{'_postman_id':_0xd71e13[_0x257a('a2','%&0y')],'name':_0xd71e13[_0x257a('a3','B!7z')],'schema':_0xd71e13['TSNIx']},'item':_0x292c35};fs[_0x257a('a4','Y)XO')](_0xd71e13[_0x257a('a5','(Q8h')],JSON[_0x257a('a6','%&0y')](_0x50f97b),(_0x4036d2,_0x483bf0)=>{if(_0xd71e13[_0x257a('a7','1r*h')](_0xd71e13['KvOrR'],_0xd71e13[_0x257a('a8','q&D#')])){const _0x4dc8e9=array[index];var _0xcd3819=_0x4dc8e9['indexOf'](':');var _0x31e605=_0x4dc8e9['substring'](0x0,_0xcd3819);keys[_0x257a('a9','CN7*')](_0x31e605);}else{logger[_0x257a('aa','q&D#')](_0xd71e13['kEVDn']);}});},'getIndexByPath':(_0x5bc683,_0x357f9f=0x3)=>{let _0x1507a3=_0x5bc683['split']('/');let _0x454f85=_0x1507a3[_0x257a('ab','1r*h')](0x0,_0x1507a3[_0x257a('ac','Deu#')]-0x1)[_0x257a('ad','#mdB')]('/');let _0xbdc0e5={};charles2postman[_0x257a('ae','gdao')](_0xbdc0e5,path['join'](__dirname,_0x454f85),_0x1507a3[0x0],_0x357f9f+0x1);return _0xbdc0e5;},'getIndexOfPathByDeep':(_0x5930cb,_0x44bc21,_0x4fc276,_0x11e66d)=>{var _0x49cbea={'miMLf':function(_0x2ac744,_0x3e8212){return _0x2ac744-_0x3e8212;},'wWqqn':function(_0x5a830f,_0x398ce4){return _0x5a830f===_0x398ce4;},'ONhAS':'XGaYc'};let _0x59c694=path[_0x257a('af','O(Qm')](_0x44bc21,_0x4fc276);if(_0x11e66d){_0x5930cb[_0x4fc276]=_0x4fc276;if(fs[_0x257a('b0','hm[[')](_0x59c694)[_0x257a('b1','06s[')]()){if(_0x49cbea[_0x257a('b2','Q0vi')](_0x257a('b3','[yDh'),_0x49cbea[_0x257a('b4','Deu#')])){let _0x91b920=_0x44bc21[_0x257a('b5','P8w#')]('/');let _0x500bce=_0x91b920['splice'](0x0,_0x49cbea[_0x257a('b6','hm[[')](_0x91b920['length'],0x1))[_0x257a('b7','r[[$')]('/');let _0xe040d4={};charles2postman[_0x257a('b8','L8*w')](_0xe040d4,path[_0x257a('af','O(Qm')](__dirname,_0x500bce),_0x91b920[0x0],_0x11e66d+0x1);return _0xe040d4;}else{_0x5930cb[_0x4fc276]={};let _0x1ea54c=fs[_0x257a('b9','EI^M')](_0x59c694);_0x1ea54c[_0x257a('ba','gdao')](_0xa3b218=>charles2postman[_0x257a('bb',')TXg')](_0x5930cb[_0x4fc276],_0x59c694,_0xa3b218,_0x11e66d-0x1));}}}}};charles2postman[_0x257a('bc','y7ml')](_0x257a('bd','hm[['));;_0xodY='jsjiami.com.v6';
+var fs = require('fs');
+var join = require('path').join;
+var path = require('path');
+var log4js = require('log4js');
+var logger = log4js.getLogger();
+logger.level = 'info';
+
+// 思路：把chlsj中的数据，抓出来构建成一个postman collection.json文件 
+var charles2postman = {
+    /**
+     * @method 遍历指定路径，获取所有路径下的文件夹、文件名称
+     * @param jsonPath 被遍历的文件夹路径
+    */
+    getFilesName: (jsonPath) => {
+        // 空数组，用于存放获取的每个文件的路径
+        let jsonFiles = [];
+        let findJsonFile = (path) => {
+            // 读取根节点文件夹，返回文件数组列表
+            let files = fs.readdirSync(path);
+            // 调试输出
+            logger.info("返回文件数组列表:" + files);
+            // 遍历文件数组列表
+            files.forEach(function (item, index) {
+                let fPath = join(path, item);
+                // 根据文件路径获取文件信息，返回一个fs.Stats对象
+                let stat = fs.statSync(fPath);
+                // 判断是文件夹，还是文件
+                if (stat.isDirectory() === true) {
+                    // 是文件夹
+                    // 递归！
+                    findJsonFile(fPath);
+                };
+                if (stat.isFile() === true) {
+                    // 针对mac系统，判断是否包含隐藏文件DS_Store
+                    if (item.indexOf("DS_Store") != -1) {
+                        // 含有隐藏文件不放入fPath
+                        // console.log("item",item)
+                    } else {
+                        // 是文件，放入数组中
+                        jsonFiles.push(fPath);
+                    }
+
+
+
+
+
+                };
+            });
+        }
+        findJsonFile(jsonPath);//jsonPath.length()及时文件数量
+        // 调试输出 数组内容
+        logger.info(jsonFiles);
+
+
+        // 判断文件数量，根据文件数量决定要写入的对象，每个对象元素就是一个item，每个item获取不同文件的content！
+        var item = [];
+
+
+        // 遍历读取文件内容
+        jsonFiles.forEach(filedir => {
+            // 读取charles导出抓包请求数据
+            var content = JSON.parse(fs.readFileSync(filedir, 'utf-8'));//fs读取文件，返回内容是字符串，需要转成对象
+            // 调试输出
+            // logger.info(content);
+
+            /**
+             * 解析path，拆分成数组（即File文件夹下的每个chlsj文件名）
+             * */
+            var path = content[0]["path"].split("/");// 将path参数，拆分成数组
+            logger.info(path.filter(n => n));// 删除数组数组中空元素
+            /**
+             * 解析header
+             * content[0]["request"]["header"]["headers"]
+             */
+            var header = [];
+            var content_header = content[0]["request"]["header"]["headers"];// 获取charles导出抓包请求数据中，headers的数组元素
+            // 遍历headers每个元素，拼接成导入postman collection.json支持的数据header格式
+            content_header.forEach(element => {
+                // 调试输出
+                // logger.info("element:"+JSON.stringify(element));
+                header.push({
+                    "key": element["name"],
+                    "name": element["name"],
+                    "value": element["value"],
+                    "type": "text"
+                });
+            });
+            // 调试输出
+            // logger.info(JSON.stringify(header));
+
+            /**
+             * 判断请求方法类型%content-type（body内容类型），解析出相应body格式。
+             */
+            var body = {};
+            var mimeType = content[0]["request"]["mimeType"];
+            var raw;
+            var RAW;
+            // 如果请求method是get或Get或GET，则body直接为空
+            if (content[0]["method"] === "GET") {
+                body = {};
+                // 但参数都在地址栏，因此query不为null，即host地址需要拼接成host?query
+                raw = content[0]["host"] + content[0]["path"] + "?" + content[0]["query"];
+                // console.log("raw",raw)
+                // 判断是否非null（因为有些GET请求是不带param即query值为null）
+                if (content[0]["query"]!=null) {
+                // 将get请求url参数params转成query [{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"}]
+                var query = [];
+                var keys = [];
+                var values = [];
+                var changeQuery = content[0]["query"].replace(/=/g, ":").replace(/&/g, ",").split(",")
+                // console.log("changeQuery", changeQuery)
+                var array = changeQuery;
+                // 获取所有key的数组
+                for (let index = 0; index < array.length; index++) {
+                    const element = array[index];
+                    var wz = element.indexOf(':');
+                    var res = element.substring(0, wz);
+                    // console.log("key", res)
+                    keys.push(res);
+                }
+                // 获取所有values的数组
+                for (let index = 0; index < array.length; index++) {
+                    const element = array[index];
+                    var wz = element.indexOf(':');
+                    var res = element.substring(wz + 1, element.size);
+                    // console.log("value", res)
+                    values.push(res);
+                }
+
+
+                for (let index = 0; index < array.length; index++) {
+                    const key = keys[index];
+                    const value = values[index];
+                    query.push({ "key": key, "value": value })
+                }
+                }
+
+            } else {
+                // post、put、delete等方法url不带参数?
+                raw = content[0]["host"] + content[0]["path"];
+                // method非GET，那么Method可能是POST、PUT、DELETE、OPTIONS，也就存在body，body类型有urlencoded、json、form-data等格式
+                if (mimeType === "application/json") {
+                    // content-type为application/json
+                    logger.info("Content-type:application/json");
+                    logger.info(content[0]["request"]["body"]["text"]);
+                    body = {
+                        "mode": "raw",
+                        "raw": content[0]["request"]["body"]["text"],
+                        "options": {
+                            "raw": {
+                                "language": "json"
+                            }
+                        }
+                    }
+                } else if (mimeType === "multiple/form-data") {
+                    // content-type为multiple/form-data
+                    logger.info("Content-type:multiple/form-data");
+                    // 将x=x&y=y格式转成对象
+                    var params = content[0]["request"]["body"]["text"];
+                    var paramArr = params.split('&');
+                    var res = {};
+                    for (var i = 0; i < paramArr.length; i++) {
+                        var str = paramArr[i].split('=');
+                        res[str[0]] = str[1];
+                    }
+                    logger.info("body：" + JSON.stringify(res));
+                    // 用于存放拼接成postman collection.json 支持导入的body格式的数据
+                    var form_data_body = [];
+                    var object = res;
+                    // 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
+                    for (const key in object) {
+                        if (object.hasOwnProperty(key)) {
+                            const element = object[key];
+                            // 调试输出key
+                            // logger.info(key);
+                            // 调试输出value
+                            // logger.info(element);
+                            // 拼接成postman collection.json 支持导入的body格式。即放入数组中
+                            form_data_body.push({
+                                "type": "text",
+                                "key": key,
+                                "value": element
+                            });
+                        }
+                    }
+                    // content-type为multiple/form-data
+                    // 解析body格式为
+                    body = {
+                        "mode": "formdata",
+                        "formdata": form_data_body
+                    }
+                } else if (mimeType === ("application/x-www-form-urlencoded")) {
+                    // content-type为application/x-www-form-urlencoded
+                    logger.info("application/x-www-form-urlencoded");
+                    // 将x=x&y=y格式转成对象
+                    var params = content[0]["request"]["body"]["text"];
+                    var paramArr = params.split('&');
+                    var res = {};
+                    for (var i = 0; i < paramArr.length; i++) {
+                        var str = paramArr[i].split('=');
+                        res[str[0]] = str[1];
+                    }
+                    logger.info("body：" + JSON.stringify(res));
+                    // 用于存放拼接成postman collection.json 支持导入的body格式的数据
+                    var urlencoded_body = [];
+                    var object = res;
+                    // 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
+                    for (const key in object) {
+                        if (object.hasOwnProperty(key)) {
+                            const element = object[key];
+                            // 调试输出key
+                            // logger.info(key);
+                            // 调试输出value
+                            // logger.info(element);
+                            // 拼接成postman collection.json 支持导入的body格式。即放入数组中
+                            urlencoded_body.push({
+                                "type": "text",
+                                "key": key,
+                                "value": element
+                            });
+                        }
+                    }
+
+                    // 解析body格式为
+                    body = {
+                        "mode": "urlencoded",
+                        "urlencoded": urlencoded_body
+                    }
+                }
+            }
+            // 判断是否GET，如果是把raw接入到后面raw
+            if (content[0]["method"] === "GET") {
+                RAW = raw
+            } else {
+                RAW = content[0]["host"] + content[0]["path"]
+            }
+
+
+            // 将每个文件夹对应的item内容对象，放入item数组中，用于下面最终postman_json写入postman_collection.json文件中
+            item.push({
+                "name": content[0]["path"],
+                "event": [{
+                    "listen": "test",
+                    "script": {
+                        "id": "e7784559-3290-488c-a4fd-f241268ceed5",
+                        "exec": ["//断言", "pm.test(\"Status code is 200\", function () {", "    pm.response.to.have.status(200);", "});"],
+                        "type": "text/javascript"
+                    }
+                }],
+                "protocolProfileBehavior": {
+                    "disableBodyPruning": true
+                },
+                "request": {
+                    "method": content[0]["method"],
+                    "header": header,
+                    "body": body,
+                    "url": {
+                        "raw": RAW,
+                        "host": `${content[0]["scheme"]}://${content[0]["host"]}`,
+                        "path": path,
+                        "query": query
+                    },
+
+                },
+                "response": []
+            });
+            // 调试输出每个文件夹解析出来的item内容
+            // logger.info(JSON.stringify(item));
+
+        });
+        // postman导入格式
+        var postman_json = {
+            "info": {
+                "_postman_id": "a33a6a47-a9e8-4e6f-ab83-7cb1a25d4456",
+                "name": "File",
+                "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+            },
+            "item": item
+        }
+        // 输出到outputFile
+        fs.writeFile("./outputFile/postman_collection.json", JSON.stringify(postman_json), (err, data) => {
+            logger.info("转换完毕");
+        });
+    },
+
+    /**
+     * @method  遍历的指定路径下的文件夹、文件结构，转成json串
+     * @param   dir  被遍历的指定路径 path
+     * @param   deep 文件目录深度，默认3
+     * @returns
+     * */
+
+    // 获取指定路径 path 下的，默认深度为 3 的目录 JSON
+    getIndexByPath: (dir, deep = 3) => {
+        let dirDevide = dir.split('/');
+        let preDir = dirDevide.splice(0, dirDevide.length - 1).join('/');
+        let index = {};
+        charles2postman.getIndexOfPathByDeep(index, path.join(__dirname, preDir), dirDevide[0], deep + 1);
+        return index;
+    },
+    // 开始对指定 path 递归查找深度为 deep 深度
+    getIndexOfPathByDeep: (obj, dir, curDir, deep) => {
+        let curPath = path.join(dir, curDir);
+        // 达到搜索深度，停止
+        if (deep) {
+            obj[curDir] = curDir;
+            if (fs.statSync(curPath).isDirectory()) {
+                obj[curDir] = {};
+                let lists = fs.readdirSync(curPath);
+                lists.forEach(list => charles2postman.getIndexOfPathByDeep(obj[curDir], curPath, list, deep - 1))
+            }
+        }
+    }
+}
+charles2postman.getFilesName("./File");// 获取文件夹中所有文件夹名、文件名，返回数组
+// var json=charles2postman.getIndexByPath("./File",50);
+// logger.info(JSON.stringify(json));
