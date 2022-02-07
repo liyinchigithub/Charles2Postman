@@ -42,10 +42,14 @@ https://nodejs.org/en/
 进入目录
 
 ```
+
+# 打开终端窗口，切换目录到项目下，执行下面这条命令
 cd charles2postman
 ```
 安装依赖
 ```
+# 打开终端窗口，依次执行下面两条命令
+npm config set registry http://registry.npm.taobao.org/
 npm install
 ```
 
