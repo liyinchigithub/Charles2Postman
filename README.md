@@ -1,6 +1,9 @@
 # Charles2Postman
 
+[![nodejs](https://img.shields.io/badge/nodejs-v8.11.4-blue.svg)](https://nodejs.org/en/blog/release/v8.11.4/) [![postman](https://img.shields.io/badge/postman-v7.1.12-orange.svg)](https://www.postman.com/downloads/)[![charles](https://img.shields.io/badge/charles-v4.2.6-yellow.svg)](https://www.charlesproxy.com/download/latest-release/)
+
 recommend: [China-Gitee](https://gitee.com/liyinchi/Charles2Postman)，[Other-Github](https://github.com/liyinchigithub/Charles2Postman)
+
 
 功能说明
 ===
