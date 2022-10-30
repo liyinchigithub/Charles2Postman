@@ -59,19 +59,23 @@ npm install
 使用charles抓包工具
 ---
 
+
+#### 将抓包内容，从Charles中导出
+
+* 例如，导出某个域名下的所有接口
+
+![image](https://user-images.githubusercontent.com/19643260/198886853-de00b7c1-4237-4d1f-9534-25cd173619e0.png)
+
+>1.4.0版本后支持多接口单次导出，即可解析所有charles数据接口
+
+
 #### 将抓包内容，从Charles中导出单个接口
 
 ![img](./static/image/导出文件.jpg)
 
->注意：导出请求格式为 JSON Session File（.chlsj），保存至Charles2Postman目录下File文件夹中。
-
-#### 将抓包内容，从Charles中导出某个域名下所有接口
-
-![img](./static/image/支持多接口单次导出.jpg)
-
->1.4.0版本后支持多接口单次导出，即可解析所有charles数据接口
-
 #### 选择导出格式为".chlsj"
+
+>注意：导出请求格式为 JSON Session File（.chlsj），保存至Charles2Postman目录下File文件夹中。
 
 ![img](./static/image/导出文件到File.jpg)
 
@@ -127,5 +131,7 @@ sudo sh run.sh
 最终效果
 ---
 ![img](./static/image/最终效果.jpg)
+
+<img width="552" alt="image" src="https://user-images.githubusercontent.com/19643260/198886958-b57708b7-1fba-4c86-915e-b66e6ac48898.png">
 
 >对你有所帮助的话，记得start下项目，谢谢你的支持
