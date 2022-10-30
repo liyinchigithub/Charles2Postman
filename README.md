@@ -59,18 +59,23 @@ npm install
 使用charles抓包工具
 ---
 
-#### 将抓包内容，从charles中导出
+#### 将抓包内容，从Charles中导出单个接口
 
 ![img](./static/image/导出文件.jpg)
 
->注意：导出请求格式为:JSON Session File（.chlsj），保存至Charles2Postman目录下File文件夹中。
+>注意：导出请求格式为 JSON Session File（.chlsj），保存至Charles2Postman目录下File文件夹中。
+
+#### 将抓包内容，从Charles中导出某个域名下所有接口
+
+![img](./static/image/支持多接口单次导出.jpg)
+
+>1.4.0版本后支持多接口单次导出，即可解析所有charles数据接口
 
 #### 选择导出格式为".chlsj"
 
 ![img](./static/image/导出文件到File.jpg)
 
 
-![img](./static/image/支持多接口单次导出.jpg)
 
 #### 将导出文件，保存至File文件夹中
 
