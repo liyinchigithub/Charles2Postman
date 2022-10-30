@@ -70,6 +70,8 @@ npm install
 ![img](./static/image/导出文件到File.jpg)
 
 
+![img](./static/image/支持多接口单次导出.jpg)
+
 #### 将导出文件，保存至File文件夹中
 
 ![img](./static/image/导出文件到File例子.jpg)

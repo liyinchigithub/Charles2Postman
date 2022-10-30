@@ -5,7 +5,6 @@ var log4js = require('log4js');
 var logger = log4js.getLogger();
 logger.level = 'info';
 
-
 // 思路：把chlsj中的数据，抓出来构建成一个postman collection.json文件
 var charles2postman = {
 	/**
@@ -56,218 +55,241 @@ var charles2postman = {
 			var content = JSON.parse(fs.readFileSync(filedir, 'utf-8')); //fs读取文件，返回内容是字符串，需要转成对象
 			// 调试输出
 			// logger.info(content);
-
-			/**
+			for (let filedir_index = 0; filedir_index < content.length; filedir_index++) {
+				/**
              * 解析path，拆分成数组（即File文件夹下的每个chlsj文件名）
              * */
-			var path = content[0]['path'].split('/'); // 将path参数，拆分成数组
-			logger.info(path.filter((n) => n)); // 删除数组数组中空元素
-			/**
+				var path = content[filedir_index]['path'].split('/'); // 将path参数，拆分成数组
+				logger.info(path.filter((n) => n)); // 删除数组数组中空元素
+				/**
              * 解析header
-             * content[0]["request"]["header"]["headers"]
+             * content[filedir_index]["request"]["header"]["headers"]
              */
-			var header = [];
-			var content_header = content[0]['request']['header']['headers']; // 获取charles导出抓包请求数据中，headers的数组元素
-			// 遍历headers每个元素，拼接成导入postman collection.json支持的数据header格式
-			content_header.forEach((element) => {
-				// 调试输出
-				// logger.info("element:"+JSON.stringify(element));
-				header.push({
-					key: element['name'],
-					name: element['name'],
-					value: element['value'],
-					type: 'text'
+				var header = [];
+				var content_header = content[filedir_index]['request']['header']['headers']; // 获取charles导出抓包请求数据中，headers的数组元素
+				// 遍历headers每个元素，拼接成导入postman collection.json支持的数据header格式
+				content_header.forEach((element) => {
+					// 调试输出
+					// logger.info("element:"+JSON.stringify(element));
+					header.push({
+						key: element['name'],
+						name: element['name'],
+						value: element['value'],
+						type: 'text'
+					});
 				});
-			});
-			// 调试输出
-			// logger.info(JSON.stringify(header));
+				// 调试输出
+				// logger.info(JSON.stringify(header));
 
-			/**
+				/**
              * 判断请求方法类型%content-type（body内容类型），解析出相应body格式。
              */
-			var body = {};
-			var mimeType = content[0]['request']['mimeType'];
-			var raw;
-			var RAW;
-			// 如果请求method是get或Get或GET，则body直接为空
-			if (content[0]['method'] === 'GET') {
-				body = {};
-				// 但参数都在地址栏，因此query不为null，即host地址需要拼接成host?query
-				raw =
-					charles2postman.isHavePort(null, content[0]['host'], content[0]['port']) +
-					content[0]['path'] +
-					'?' +
-					content[0]['query'];
-				// console.log("raw",raw)
-				// 判断是否非null（因为有些GET请求是不带param即query值为null）
-				if (content[0]['query'] != null) {
-					// 将get请求url参数params转成query [{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"}]
-					var query = [];
-					var keys = [];
-					var values = [];
-					var changeQuery = content[0]['query'].replace(/=/g, ':').replace(/&/g, ',').split(',');
-					// console.log("changeQuery", changeQuery)
-					var array = changeQuery;
-					// 获取所有key的数组
-					for (let index = 0; index < array.length; index++) {
-						const element = array[index];
-						var wz = element.indexOf(':');
-						var res = element.substring(0, wz);
-						// console.log("key", res)
-						keys.push(res);
-					}
-					// 获取所有values的数组
-					for (let index = 0; index < array.length; index++) {
-						const element = array[index];
-						var wz = element.indexOf(':');
-						var res = element.substring(wz + 1, element.size);
-						// console.log("value", res)
-						values.push(res);
-					}
+				var body = {};
+				var mimeType = content[filedir_index]['request']['mimeType'];
+				var raw;
+				var RAW;
+				// 如果请求method是get或Get或GET，则body直接为空
+				if (content[filedir_index]['method'] === 'GET') {
+					body = {};
+					// 但参数都在地址栏，因此query不为null，即host地址需要拼接成host?query
+					raw =
+						charles2postman.isHavePort(
+							null,
+							content[filedir_index]['host'],
+							content[filedir_index]['port']
+						) +
+						content[filedir_index]['path'] +
+						'?' +
+						content[filedir_index]['query'];
+					// console.log("raw",raw)
+					// 判断是否非null（因为有些GET请求是不带param即query值为null）
+					if (content[filedir_index]['query'] != null) {
+						// 将get请求url参数params转成query [{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"},{"key":"xxx","value":"xxx"}]
+						var query = [];
+						var keys = [];
+						var values = [];
+						var changeQuery = content[filedir_index]['query']
+							.replace(/=/g, ':')
+							.replace(/&/g, ',')
+							.split(',');
+						// console.log("changeQuery", changeQuery)
+						var array = changeQuery;
+						// 获取所有key的数组
+						for (let index = 0; index < array.length; index++) {
+							const element = array[index];
+							var wz = element.indexOf(':');
+							var res = element.substring(0, wz);
+							// console.log("key", res)
+							keys.push(res);
+						}
+						// 获取所有values的数组
+						for (let index = 0; index < array.length; index++) {
+							const element = array[index];
+							var wz = element.indexOf(':');
+							var res = element.substring(wz + 1, element.size);
+							// console.log("value", res)
+							values.push(res);
+						}
 
-					for (let index = 0; index < array.length; index++) {
-						const key = keys[index];
-						const value = values[index];
-						query.push({ key: key, value: value });
+						for (let index = 0; index < array.length; index++) {
+							const key = keys[index];
+							const value = values[index];
+							query.push({ key: key, value: value });
+						}
 					}
-				}
-			} else {
-				// post、put、delete等方法url不带参数?
-				raw = charles2postman.isHavePort(null, content[0]['host'], content[0]['port']) + content[0]['path'];
-				// method非GET，那么Method可能是POST、PUT、DELETE、OPTIONS，也就存在body，body类型有urlencoded、json、form-data等格式
-				if (mimeType === 'application/json') {
-					// content-type为application/json
-					logger.info('Content-type:application/json');
-					logger.info(content[0]['request']['body']['text']);
-					body = {
-						mode: 'raw',
-						raw: content[0]['request']['body']['text'],
-						options: {
-							raw: {
-								language: 'json'
+				} else {
+					// post、put、delete等方法url不带参数?
+					raw =
+						charles2postman.isHavePort(
+							null,
+							content[filedir_index]['host'],
+							content[filedir_index]['port']
+						) + content[filedir_index]['path'];
+					// method非GET，那么Method可能是POST、PUT、DELETE、OPTIONS，也就存在body，body类型有urlencoded、json、form-data等格式
+					if (mimeType === 'application/json') {
+						// content-type为application/json
+						logger.info('Content-type:application/json');
+						logger.info(content[filedir_index]['request']['body']['text']);
+						body = {
+							mode: 'raw',
+							raw: content[filedir_index]['request']['body']['text'],
+							options: {
+								raw: {
+									language: 'json'
+								}
+							}
+						};
+					} else if (mimeType === 'multiple/form-data') {
+						// content-type为multiple/form-data
+						logger.info('Content-type:multiple/form-data');
+						// 将x=x&y=y格式转成对象
+						var params = content[filedir_index]['request']['body']['text'];
+						var paramArr = params.split('&');
+						var res = {};
+						for (var i = 0; i < paramArr.length; i++) {
+							var str = paramArr[i].split('=');
+							res[str[0]] = str[1];
+						}
+						logger.info('body：' + JSON.stringify(res));
+						// 用于存放拼接成postman collection.json 支持导入的body格式的数据
+						var form_data_body = [];
+						var object = res;
+						// 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
+						for (const key in object) {
+							if (object.hasOwnProperty(key)) {
+								const element = object[key];
+								// 调试输出key
+								// logger.info(key);
+								// 调试输出value
+								// logger.info(element);
+								// 拼接成postman collection.json 支持导入的body格式。即放入数组中
+								form_data_body.push({
+									type: 'text',
+									key: key,
+									value: element
+								});
 							}
 						}
-					};
-				} else if (mimeType === 'multiple/form-data') {
-					// content-type为multiple/form-data
-					logger.info('Content-type:multiple/form-data');
-					// 将x=x&y=y格式转成对象
-					var params = content[0]['request']['body']['text'];
-					var paramArr = params.split('&');
-					var res = {};
-					for (var i = 0; i < paramArr.length; i++) {
-						var str = paramArr[i].split('=');
-						res[str[0]] = str[1];
-					}
-					logger.info('body：' + JSON.stringify(res));
-					// 用于存放拼接成postman collection.json 支持导入的body格式的数据
-					var form_data_body = [];
-					var object = res;
-					// 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
-					for (const key in object) {
-						if (object.hasOwnProperty(key)) {
-							const element = object[key];
-							// 调试输出key
-							// logger.info(key);
-							// 调试输出value
-							// logger.info(element);
-							// 拼接成postman collection.json 支持导入的body格式。即放入数组中
-							form_data_body.push({
-								type: 'text',
-								key: key,
-								value: element
-							});
+						// content-type为multiple/form-data
+						// 解析body格式为
+						body = {
+							mode: 'formdata',
+							formdata: form_data_body
+						};
+					} else if (mimeType === 'application/x-www-form-urlencoded') {
+						// content-type为application/x-www-form-urlencoded
+						logger.info('application/x-www-form-urlencoded');
+						// 将x=x&y=y格式转成对象
+						var params = content[filedir_index]['request']['body']['text'];
+						var paramArr = params.split('&');
+						var res = {};
+						for (var i = 0; i < paramArr.length; i++) {
+							var str = paramArr[i].split('=');
+							res[str[0]] = str[1];
 						}
-					}
-					// content-type为multiple/form-data
-					// 解析body格式为
-					body = {
-						mode: 'formdata',
-						formdata: form_data_body
-					};
-				} else if (mimeType === 'application/x-www-form-urlencoded') {
-					// content-type为application/x-www-form-urlencoded
-					logger.info('application/x-www-form-urlencoded');
-					// 将x=x&y=y格式转成对象
-					var params = content[0]['request']['body']['text'];
-					var paramArr = params.split('&');
-					var res = {};
-					for (var i = 0; i < paramArr.length; i++) {
-						var str = paramArr[i].split('=');
-						res[str[0]] = str[1];
-					}
-					logger.info('body：' + JSON.stringify(res));
-					// 用于存放拼接成postman collection.json 支持导入的body格式的数据
-					var urlencoded_body = [];
-					var object = res;
-					// 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
-					for (const key in object) {
-						if (object.hasOwnProperty(key)) {
-							const element = object[key];
-							// 调试输出key
-							// logger.info(key);
-							// 调试输出value
-							// logger.info(element);
-							// 拼接成postman collection.json 支持导入的body格式。即放入数组中
-							urlencoded_body.push({
-								type: 'text',
-								key: key,
-								value: element
-							});
+						logger.info('body：' + JSON.stringify(res));
+						// 用于存放拼接成postman collection.json 支持导入的body格式的数据
+						var urlencoded_body = [];
+						var object = res;
+						// 因为body的属性和属性值，可能有多个，所以遍历获取每组对象。
+						for (const key in object) {
+							if (object.hasOwnProperty(key)) {
+								const element = object[key];
+								// 调试输出key
+								// logger.info(key);
+								// 调试输出value
+								// logger.info(element);
+								// 拼接成postman collection.json 支持导入的body格式。即放入数组中
+								urlencoded_body.push({
+									type: 'text',
+									key: key,
+									value: element
+								});
+							}
 						}
-					}
 
-					// 解析body格式为
-					body = {
-						mode: 'urlencoded',
-						urlencoded: urlencoded_body
-					};
+						// 解析body格式为
+						body = {
+							mode: 'urlencoded',
+							urlencoded: urlencoded_body
+						};
+					}
 				}
-			}
-			// 判断是否GET，如果是把raw接入到后面raw
-			if (content[0]['method'] === 'GET') {
-				RAW = raw;
-			} else {
-				RAW = charles2postman.isHavePort(null, content[0]['host'], content[0]['port']) + content[0]['path'];
-			}
-			
-			// 将每个文件夹对应的item内容对象，放入item数组中，用于下面最终postman_json写入postman_collection.json文件中
-			item.push({
-				name: content[0]['path'],
-				event: [
-					{
-						listen: 'test',
-						script: {
-							id: 'e7784559-3290-488c-a4fd-f241268ceed5',
-							exec: [
-								'//断言',
-								'pm.test("Status code is 200", function () {',
-								'    pm.response.to.have.status(200);',
-								'});'
-							],
-							type: 'text/javascript'
+				// 判断是否GET，如果是把raw接入到后面raw
+				if (content[filedir_index]['method'] === 'GET') {
+					RAW = raw;
+				} else {
+					RAW =
+						charles2postman.isHavePort(
+							null,
+							content[filedir_index]['host'],
+							content[filedir_index]['port']
+						) + content[filedir_index]['path'];
+				}
+
+				// 将每个文件夹对应的item内容对象，放入item数组中，用于下面最终postman_json写入postman_collection.json文件中
+				item.push({
+					name: content[filedir_index]['path'],
+					event: [
+						{
+							listen: 'test',
+							script: {
+								id: 'e7784559-3290-488c-a4fd-f241268ceed5',
+								exec: [
+									'//断言',
+									'pm.test("Status code is 200", function () {',
+									'    pm.response.to.have.status(200);',
+									'});'
+								],
+								type: 'text/javascript'
+							}
 						}
-					}
-				],
-				protocolProfileBehavior: {
-					disableBodyPruning: true
-				},
-				request: {
-					method: content[0]['method'],
-					header: header,
-					body: body,
-					url: {
-						raw: RAW,
-						host: charles2postman.isHavePort(content[0]['scheme'], content[0]['host'], content[0]['port']), // 判断是否含有端口号
-						path: path,
-						query: query
-					}
-				},
-				response: []
-			});
-			// 调试输出每个文件夹解析出来的item内容
-			// logger.info(JSON.stringify(item));
+					],
+					protocolProfileBehavior: {
+						disableBodyPruning: true
+					},
+					request: {
+						method: content[filedir_index]['method'],
+						header: header,
+						body: body,
+						url: {
+							raw: RAW,
+							host: charles2postman.isHavePort(
+								content[filedir_index]['scheme'],
+								content[filedir_index]['host'],
+								content[filedir_index]['port']
+							), // 判断是否含有端口号
+							path: path,
+							query: query
+						}
+					},
+					response: []
+				});
+				// 调试输出每个文件夹解析出来的item内容
+				// logger.info(JSON.stringify(item));
+			}
 		});
+
 		// postman导入格式
 		var postman_json = {
 			info: {
@@ -312,7 +334,7 @@ var charles2postman = {
 		}
 	},
 	isHavePort: (scheme, host, port) => {
-        // 判断是否含请求协议scheme
+		// 判断是否含请求协议scheme
 		if (scheme == null) {
 			// 判断是否有端口号
 			if (port != undefined) {
